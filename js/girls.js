@@ -8,6 +8,7 @@ var girl = [
     
     ["peach","Princess Peach","fall1"],
     ["ai","AI","fall2"],
-    ["lop","Lop","fall1"]
+    ["lop","Lop","fall1"],
+    ["may","May","fall2"]
     ];
     
